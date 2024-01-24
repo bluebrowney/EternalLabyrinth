@@ -1,0 +1,17 @@
+# Ignore .gitignore file
+
+/.gitignroe
+
+# Ignore Content/Assets
+
+/EternalLabyrinthContent/
+
+# Ignore obj and cached files
+
+EternalLabyrinth/obj/
+
+# Ignore Icons and Thumbnails
+
+EternalLabyrinth/Game.ico
+EternalLabyrinth/GameThumbnail.png
+EternalLabyrinth/Icon.ico
