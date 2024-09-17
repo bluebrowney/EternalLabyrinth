@@ -6,8 +6,6 @@ Eternal Labyrinth is a platformer which challenges you to utilize your bestowed 
 
 ## Story
 
-TODO: Transfer from previous files
-
 ## Controls
 
 ## Enemies
